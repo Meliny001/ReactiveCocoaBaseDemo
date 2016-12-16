@@ -1,0 +1,6 @@
+framework module Pods_ReactiveCocoaBaseDemo {
+  umbrella header "Pods-ReactiveCocoaBaseDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
